@@ -5,4 +5,4 @@ This program searches for all the words which starts with all the prefixes of th
 It uses Trie data structure to search for all the words in the dictionary,
 At max it will show you 5 words for every prefix.
 
-https://github.com/oxone-999/word-suggester/sample.png?raw=true
+https://github.com/oxone-999/word-suggester/blob/main/sample.png
